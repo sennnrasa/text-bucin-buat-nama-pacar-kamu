@@ -1,5 +1,5 @@
 const container = document.getElementById('container');
-const text = 'sesilia';
+const text = 'arlii';
 const numTexts = 100; 
 const centerX = 300; 
 const centerY = 300; 
@@ -115,4 +115,5 @@ document.addEventListener('DOMContentLoaded', () => {
         return `${minutes}:${remainingSeconds.toString().padStart(2, '0')}`;
     }
 });
+
 
